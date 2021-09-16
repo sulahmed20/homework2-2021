@@ -71,7 +71,7 @@ Red div has the following styles:
 a. Background color is hexadecimal value for red
 b. Text is aligned on the right side
 */
-div#red{
+#red{
 	background-color: #ff0000;
 	text-align: right;
 }
@@ -81,7 +81,7 @@ Blue div has the following styles:
 a. Background color is hex value for blue
 b. Text is aligned on the left side
 */
-div#blue{
+#blue{
 	background-color: #0000ff;
     text-align: left;
 }
@@ -94,7 +94,7 @@ c. Header 2 and paragraph text is black
 d. Header 2 uses the same text-shadow  with the same parameters
    as above but #c7e2c7 as the color.
 */
-div#yellow{
+#yellow{
 	background-color: #ffff00;
 	text-align: right;
     color: #000000;
