@@ -101,4 +101,24 @@ div#yellow{
     text-shadow: #c7e2c7;
 }
 
+/*
+Green div has the following styles
+a. Background color is hexadecimal value for green  (Use #008000)
+b. Text is aligned on the left side
+*/
+div#green{
+	background-color: #008000;
+    text-align: left;
+}
+
+/*
+Paragraphs within the footer have text that is centered with 10px padding
+on the bottom and right only. (No padding on the left or top.)
+*/
+footer{
+    text-align: center;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
 
